@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_tabs/static/css/main.f4970c56.chunk.css",
-    "main.js": "/react_tabs/static/js/main.c741addd.chunk.js",
-    "main.js.map": "/react_tabs/static/js/main.c741addd.chunk.js.map",
-    "runtime~main.js": "/react_tabs/static/js/runtime~main.310f5775.js",
-    "runtime~main.js.map": "/react_tabs/static/js/runtime~main.310f5775.js.map",
-    "static/js/2.6961691d.chunk.js": "/react_tabs/static/js/2.6961691d.chunk.js",
-    "static/js/2.6961691d.chunk.js.map": "/react_tabs/static/js/2.6961691d.chunk.js.map",
-    "index.html": "/react_tabs/index.html",
-    "precache-manifest.1dd2aa220d435df2ec3bc2d1edaea147.js": "/react_tabs/precache-manifest.1dd2aa220d435df2ec3bc2d1edaea147.js",
-    "service-worker.js": "/react_tabs/service-worker.js",
-    "static/css/main.f4970c56.chunk.css.map": "/react_tabs/static/css/main.f4970c56.chunk.css.map"
+    "main.css": "/react_tabs-with-router/static/css/main.f4970c56.chunk.css",
+    "main.js": "/react_tabs-with-router/static/js/main.c741addd.chunk.js",
+    "main.js.map": "/react_tabs-with-router/static/js/main.c741addd.chunk.js.map",
+    "runtime~main.js": "/react_tabs-with-router/static/js/runtime~main.5858125e.js",
+    "runtime~main.js.map": "/react_tabs-with-router/static/js/runtime~main.5858125e.js.map",
+    "static/js/2.6961691d.chunk.js": "/react_tabs-with-router/static/js/2.6961691d.chunk.js",
+    "static/js/2.6961691d.chunk.js.map": "/react_tabs-with-router/static/js/2.6961691d.chunk.js.map",
+    "index.html": "/react_tabs-with-router/index.html",
+    "precache-manifest.9b492d9e9c041d4457c8a66ec26ebfb6.js": "/react_tabs-with-router/precache-manifest.9b492d9e9c041d4457c8a66ec26ebfb6.js",
+    "service-worker.js": "/react_tabs-with-router/service-worker.js",
+    "static/css/main.f4970c56.chunk.css.map": "/react_tabs-with-router/static/css/main.f4970c56.chunk.css.map"
   }
 }
